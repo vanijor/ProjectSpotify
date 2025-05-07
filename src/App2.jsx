@@ -25,3 +25,7 @@ export default App2
 //modifier
 
 //header__link--small
+
+//Self close tag
+//<Header></Header>
+//<Header />
